@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* Intro.css */
+
+.container {
+    text-align: center;
+}
+
+.about-us {
+    padding: 20px;
+}
+
+.banner {
+    background-color: #f7f7f7; /* Màu nền của banner */
+    padding: 40px;
+}
+
+.background-head-intro {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    /*Hiệu ứng ảnh động*/
+    
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff; /* Màu chữ của overlay */
+}
+
+.text-overlay h1 {
+    font-size: 40px; /* Kích thước font chữ của tiêu đề */
+    margin: 0au; /* Loại bỏ khoảng trắng mặc định */
+}
+
+.title-1{
+    color: #333;
+}
+.title-2{
+    color: #81ff85;
+}
+.title-3{
+    color: #fffffff1;
+}
+.title-4{
+    color: rgb(42, 209, 255);
+}
+
+
+p {
+    color: #666; /* Màu chữ của đoạn văn bản */
+    font-size: 20px; /* Kích thước font chữ */
+    line-height: 1.5; /* Độ dài dòng */   
+    margin-right: 150px; /*Canh lề phải */
+    margin-left: 150px; /*Canh lề trái */
+}
+
+/* Các quy tắc kiểu khác có thể được thêm vào theo nhu cầu của bạn */
+
+
+
+
+
+
+
+
+
+
+
